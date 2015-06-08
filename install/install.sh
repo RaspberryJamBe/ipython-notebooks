@@ -1,4 +1,4 @@
-apt-get update && apt-get upgrade
+apt-get update && apt-get upgrade -y
 
 # Install Python
 apt-get install -y \
